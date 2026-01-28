@@ -29,6 +29,21 @@ TC_03_TOOLBOX
 └── src/
 
 
+TC_03_TOOLBOX
+│
+├── README.md
+│
+├── notebooks
+│   ├── Team_Challenge_ToolBox.ipynb      # Enunciado
+│   ├── ejemplo_toolbox_titanic.ipynb     # Ejemplo práctico de las funciones
+│   └── toolbox_ML.py                     # Módulo de Python con las funciones
+│
+├── data
+│   └── titanic.csv                       # Dataset
+│
+└── src/
+
+
 ## ⚙️ Dependencias
 
 El módulo utiliza las siguientes librerías:
