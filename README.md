@@ -18,14 +18,23 @@ toolbox_ML.py   # Módulo con las funciones del challenge
 README.md       # Documentación del proyecto
 
 TC_03_TOOLBOX
+
 │
+
 ├── README.md                           # Documentación del proyecto
+
 ├── notebooks            
+
     ├── Team_Challenge_ToolBox.ipynb    # Enunciado 
+    
     ├── ejemplo_toolbox_titanic.ipynb   # Ejemplo práctico de las funciones
+    
     ├── toolbox_ML.py                   # módulo de Python con las funciones
+    
 ├── data            
+
     ├── titanic.csv                     # Dataset   
+    
 └── src/
 
 
