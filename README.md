@@ -137,9 +137,6 @@ plot_features_num_regression(
 )
 
 
-Resultado:
-
-['parch']
 
 #### 📈 Interpretación del pairplot (fare vs parch)
 
@@ -162,10 +159,6 @@ cat_features = get_features_cat_regression(
 
 cat_features
 
-
-Resultado:
-
-['sex', 'class', 'who', 'adult_male', 'embark_town', 'alive', 'alone']
 
 ### 4️⃣ Visualización de variables categóricas
 
@@ -209,6 +202,9 @@ El ejemplo con Titanic valida su correcto funcionamiento y utilidad práctica.
 ## ✨ Autores
 
 Daniel Mascarilla
+
 Jorge Martínez Delgado
+
 Kelly Escalante
+
 Rebeca Prior
