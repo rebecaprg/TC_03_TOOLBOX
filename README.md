@@ -2,7 +2,7 @@
 
 ## Team Challenge 3 – Grupo 4
 
-Este repositorio contiene un módulo en Python (toolbox_ML.py) con un conjunto de funciones diseñadas para el análisis exploratorio de datos (EDA) y la selección de variables (features) en problemas de regresión, donde la variable objetivo es numérica.
+Este repositorio contiene un módulo en Python (toolbox_ML.py) con un conjunto de funciones diseñadas para el análisis y la selección de variables (features) en problemas de regresión, donde la variable objetivo es numérica.
 
 El proyecto combina:
 
@@ -16,6 +16,18 @@ El proyecto combina:
 
 toolbox_ML.py   # Módulo con las funciones del challenge
 README.md       # Documentación del proyecto
+
+TC_03_TOOLBOX
+│
+├── README.md                           # Documentación del proyecto
+├── notebooks            
+    ├── Team_Challenge_ToolBox.ipynb    # Enunciado 
+    ├── ejemplo_toolbox_titanic.ipynb   # Ejemplo práctico de las funciones
+    ├── toolbox_ML.py                   # módulo de Python con las funciones
+├── data            
+    ├── titanic.csv                     # Dataset   
+└── src/
+
 
 ## ⚙️ Dependencias
 
