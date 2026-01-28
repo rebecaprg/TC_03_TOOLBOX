@@ -14,7 +14,7 @@ El proyecto combina:
 
 ## 📁 Estructura del proyecto
 
-
+```bash
 TC_03_TOOLBOX
 │
 ├── README.md
